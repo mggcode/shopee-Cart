@@ -6,6 +6,7 @@
 Sistema de carrinho de compras inspirado na Shopee utilizando Node.js.
 
 ## 💼 Sobre o projeto
+<img src="https://github.com/mggcode/shopee-Cart/blob/main/shopee-car/arquitetura.png?raw=true" alt="arquitetura" width="350" />
 
 Este repositório foi criado para ser o projeto 'Carrinho de Compras da Shopee com Node.js'.
 
