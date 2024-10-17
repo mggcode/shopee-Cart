@@ -15,8 +15,8 @@ Criar um carrinho de compras baseado no carrinho de compras da shopee, onde o ca
 
 ## 💻 Tecnologias e Ferramentas
 
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/static/v1?style=social-square&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=social-square&logo=node.js&logoColor=white)
 
 
 ## 👨🏽‍💻 Autor
