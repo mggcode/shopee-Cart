@@ -4,6 +4,8 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
+<br>
+
 Sistema de carrinho de compras inspirado na Shopee utilizando Node.js.
 
 <br>
