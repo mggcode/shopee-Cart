@@ -1,4 +1,7 @@
-# Shopee  Cart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+# Shopee  Cart<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="50" height="50"/>
+<br>
+
+![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
 Sistema de carrinho de compras inspirado na Shopee utilizando Node.js.
 
@@ -14,7 +17,7 @@ Criar um carrinho de compras baseado no carrinho de compras da shopee, onde o ca
 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ## 👨🏽‍💻 Autor
 
