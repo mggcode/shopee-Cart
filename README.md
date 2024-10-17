@@ -1,2 +1,30 @@
-# shopee-Cart
+# Shopee  Cart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+
 Sistema de carrinho de compras inspirado na Shopee utilizando Node.js.
+
+## 💼 Sobre o projeto
+
+Este repositório foi criado para ser o projeto 'Carrinho de Compras da Shopee com Node.js'.
+
+## ✅ Objetivo
+
+Criar um carrinho de compras baseado no carrinho de compras da shopee, onde o carrinho armazene itens e faça o cálculo total e de sub-itens automaticamente.
+
+## 💻 Tecnologias e Ferramentas
+
+![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## 👨🏽‍💻 Autor
+
+mgg_code
+
+![https://www.linkedin.com/in/marta-geraldo/](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
